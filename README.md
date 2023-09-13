@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositorio fase1
+# Olá, Mundo!
+ Primeiro repositorio de Git e GitHub
+
+ Repositório criado para usos iniciais.
